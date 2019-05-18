@@ -1,0 +1,37 @@
+#Windows
+Thumb.db
+ehthumbs.ab
+Desktop.ini
+
+#过滤文件夹target,idea
+/.setting/
+/target
+/.idea
+/out
+*.imi
+
+#编译文件
+*.class
+
+#包文件
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
+
+#generated files
+bin/
+gen/
+
+#Eclipse project files
+.classpath
+.project
+.DS_Store
+
+#files for the dex VM
+*.dex
+
+#build application files
+*.apk
+*.ap_
